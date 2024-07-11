@@ -1,0 +1,16 @@
+.header{
+    height: 85%;
+    width: 100%;
+    background-image: url("../Assets/Images/WallpaperDog-10867042.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header-row{
+    display: flex;
+    flex-wrap: wrap;
+}

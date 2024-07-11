@@ -1,0 +1,8 @@
+.section-space{
+    min-height: 60%;
+    width: 100%;
+    background-color: #F8F9FA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

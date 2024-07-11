@@ -1,0 +1,12 @@
+.showcase-image{
+    min-height: 30rem;
+    background-size: cover;
+}
+
+.showcase-text{
+    padding: 0;
+}
+
+.card-style{
+    padding: 7.2rem;
+}

@@ -1,0 +1,9 @@
+.nav-style{
+    display: flex;
+    justify-content: space-between;
+}
+
+.anch{
+    color: white;
+    text-decoration: none;
+}

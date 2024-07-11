@@ -1,0 +1,7 @@
+.profile-space{
+    min-height: 85%;
+    width: 100%;
+    background-color: #F8F9FA;
+    display: flex;
+    align-items: center;
+}

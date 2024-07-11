@@ -1,0 +1,11 @@
+p{
+    font-size: larger;
+    padding: 0 2.2rem;
+    font-weight: 300;
+}
+
+.image-font{
+    height: 80px;
+    max-width: 80px;
+    align-self: center;
+}
